@@ -8,4 +8,4 @@ If their traffic-light is red, they stop and wait until it turns to green.
 There are also cars navigating on the roads and stopping at traffic-lights when they are red.
 They avoid collisions with other cars and also *try* to avoid hitting walkers of course.
 
-*This project was made with Unity 2019.2.11f1, there is a build where you can launch*
+*This project was made with Unity 2019.2.11f1, there is a build that you can launch*

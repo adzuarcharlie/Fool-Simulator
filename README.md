@@ -1,4 +1,5 @@
-#This project is a simulation of AI entities navigating through a small town
+This project is a simulation of AI entities navigating through a small town
+=
 
 There are walkers spawning at predefined places and having a destination randomly picked among predefined points.
 They sometimes have to cross roads, to do so they use cross-walks.
